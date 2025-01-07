@@ -1,0 +1,24 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.bootimage.brand=UMIDIGI
+ro.product.bootimage.manufacturer=UMIDIGI
+ro.product.bootimage.device=G9C
+ro.product.bootimage.model=UMIDIGI G9C
+ro.product.bootimage.name=G9C
+ro.bootimage.build.date=Thu Dec 19 21:26:28 CST 2024
+ro.bootimage.build.date.utc=1734614788
+ro.bootimage.build.fingerprint=UMIDIGI/G9C/G9C:14/UP1A.231005.007/1728997377:user/release-keys
+ro.bootimage.build.id=UP1A.231005.007
+ro.bootimage.build.tags=release-keys
+ro.bootimage.build.type=user
+ro.bootimage.build.version.incremental=1728997377
+ro.bootimage.build.version.release=12
+ro.bootimage.build.version.release_or_codename=14
+persist.vendor.umicustom.model=UMIDIGI Note 90C
+persist.vendor.umicustom.manu=UMIDIGI
+ro.bootimage.build.version.sdk=31
+# Auto-added by post_process_props.py
+persist.sys.usb.config=none
+# end of file

@@ -1,0 +1,14 @@
+# UMIDIGI_Note_90C_V1.0_20241219
+- manufacturer: umidigi
+- platform: mt6765
+- codename: G9C
+- flavor: sys_mssi_64_cn-user
+- release: 14
+- id: UP1A.231005.007
+- incremental: 1728997377
+- tags: release-keys
+- fingerprint: UMIDIGI/G9C/G9C:14/UP1A.231005.007/1728997377:user/release-keys
+- is_ab: true
+- brand: UMIDIGI
+- branch: UMIDIGI_Note_90C_V1.0_20241219
+- repo: umidigi_g9c_dump

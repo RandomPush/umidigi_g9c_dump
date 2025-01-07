@@ -1,0 +1,30 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.system_ext.brand=UMIDIGI
+ro.product.system_ext.device=G9C
+ro.product.system_ext.manufacturer=UMIDIGI
+ro.product.system_ext.model=UMIDIGI G9C
+ro.product.system_ext.name=G9C
+ro.product.model_for_attestation=
+ro.product.brand_for_attestation=
+ro.product.name_for_attestation=
+ro.system_ext.build.display.id=UP1A.231005.007 release-keys
+ro.system_ext.build.description=sys_mssi_64_cn-user 14 UP1A.231005.007 1728997377 release-keys
+ro.system_ext.build.date=Thu Dec 19 21:04:55 CST 2024
+ro.system_ext.build.date.utc=1734613495
+ro.system_ext.build.fingerprint=UMIDIGI/G9C/G9C:14/UP1A.231005.007/1728997377:user/release-keys
+ro.system_ext.build.id=UP1A.231005.007
+ro.system_ext.build.tags=release-keys
+ro.system_ext.build.type=user
+ro.system_ext.build.version.incremental=1728997377
+ro.system_ext.build.version.release=14
+ro.system_ext.build.version.release_or_codename=14
+ro.system_ext.build.version.sdk=34
+persist.sys.fccid=
+persist.sys.model_number=
+####################################
+# from variable PRODUCT_SYSTEM_EXT_PROPERTIES
+####################################
+# end of file
