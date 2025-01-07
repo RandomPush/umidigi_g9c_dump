@@ -1,0 +1,72 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.product.brand=UMIDIGI
+ro.product.product.device=G9C
+ro.product.product.manufacturer=UMIDIGI
+ro.product.product.model=UMIDIGI G9C
+ro.product.product.name=G9C
+ro.product.model_for_attestation=
+ro.product.brand_for_attestation=
+ro.product.name_for_attestation=
+ro.product.build.date=Thu Dec 19 21:04:55 CST 2024
+ro.product.build.date.utc=1734613495
+ro.product.build.fingerprint=UMIDIGI/G9C/G9C:14/UP1A.231005.007/1728997377:user/release-keys
+ro.product.build.id=UP1A.231005.007
+ro.product.build.tags=release-keys
+ro.product.build.type=user
+ro.product.build.version.incremental=1728997377
+ro.product.build.version.release=14
+ro.product.build.version.release_or_codename=14
+ro.product.build.version.sdk=34
+persist.sys.fccid=
+persist.sys.model_number=
+####################################
+# from variable ADDITIONAL_PRODUCT_PROPERTIES
+####################################
+ro.product.vndk.version=34
+ro.build.characteristics=default
+ro.product.ab_ota_partitions=boot,product,system,system_ext,vendor
+ro.product.cpu.pagesize.max=4096
+ro.dalvik.vm.enable_uffd_gc=false
+####################################
+# from variable PRODUCT_PRODUCT_PROPERTIES
+####################################
+ro.config.alarm_alert=Cesium.ogg
+ro.config.ringtone=Atria.ogg,Atria.ogg
+ro.config.notification_sound=Lalande.ogg
+ro.com.google.acsa=true
+ro.setupwizard.rotation_locked=true
+setupwizard.theme=glif_v3_light
+ro.opa.eligible_device=true
+ro.com.google.gmsversion=14_202406
+remote_provisioning.hostname=remoteprovisioning.googleapis.com
+ro.config.media_vol_default=15
+ro.config.vc_call_vol_default=7
+ro.config.alarm_vol_default=15
+persist.sys.watermark_for_modem_supprort=1
+persist.sys.settings_smart_screenrecorder=true
+ro.add.zram=true
+ro.homepage.uri=http://www.umidigi.com
+ro.gesture.somatosensory=true
+ro.raise.hand.wakeupt=true
+persist.sys.settings_smart=true
+ro.systemui_battery_icon_horizontal=true
+persist.sys.about_phones_coloros_style=1
+persist.sys.settings_brandshow=1
+persist.sys.configuration_name=MP33MB
+ro.smartlink.key.long.press=ringer_mode_silent
+ro.smartlink.key.double.press=com.android.camera2
+persist.sys.hxycustom.zramsize=-1
+ro.com.google.apphider=off
+ro.factory.addgyroscopetest=false
+ro.factory.fingertest=true
+ro.factory.dualmic=false
+ro.factory.nfc=true
+ro.factory.macrocamera=false
+ro.factory.auxiliary.camera=true
+ro.factory.wideanglecamera=false
+ro.vendor.mtk_c2k_support=0
+ro.factory.phone_call_support=false
+# end of file
